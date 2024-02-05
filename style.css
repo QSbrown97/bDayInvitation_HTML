@@ -1,0 +1,18 @@
+.bDayImage {  
+  background-image: url("./bDayImage.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+header {
+  text-align: center;
+}
+
+main {
+  text-align: justify;
+}
+
+h2{
+  text-align: center;
+}
+
